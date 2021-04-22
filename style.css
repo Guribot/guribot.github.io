@@ -1,70 +1,62 @@
-body {
-  background-color: #FCDEBE;
+h1 {
+  text-align: center;
+  color: #FF6B6B;
+  font-family: 'Righteous', cursive;
+  font-size: 5em;
 }
 
-div {
-  display: block;
-  text-align: center;
+h2 {
+  color: #1A535C;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5em;
 }
 
-header {
-  text-align: center;
-  width: 9em;  
-  color: #FCDEBE;
-  background-color: #EDAF97;
-  border: 5px solid #FE938C;
-  margin: 1% auto auto auto;
-  padding: 0px 10px 10px 10px;
-  border-radius: 10px; 
-  font-family: 'Pacifico', cursive;
-  font-size: 4em;
-}
-.quote {
-  width: 18em;  
-  color: #82AF6B;
-  background-color: #D4D2A5;
-  border: 5px solid #82AF6B;
-  margin: 1% auto auto auto;
-  padding: 20px 20px 10px 20px;
-  border-radius: 10px;
-  font-family: 'Amatic SC', cursive;
+h3 {
+  color: #FF6B6B;
+  font-family: 'Fugaz One', cursive;
   font-size: 2em;
+  margin: 30px 5px 5px 5px;
 }
 
-.buttons {
-  display: inline;
+h4 {
+  font-family: 'Montserrat';
+  font-size: 2em;
+  color: #4ECDC4;
 }
 
-.button {
-  width: 2em;
-  height: 2em;
-  color: #D4D2A5;
-  background-color: #82AF6B;
-  padding: .4em 0px 0px 0px;
-  border-radius: 5px;
-  border: 2px solid #82AF6B;
-  font-family: 'Amatic SC', cursive;
-  font-size: .8em;  
+body {
+  font-family: 'Montserrat', serif;
+  background-color: #4ECDC4;
 }
 
-.spacer {
-  display: inline;
-  border: 0px solid #fff;
-  margin: 0px 35% 0px 40%;
+p {
+  color: #1A535C;
 }
 
-.button:hover {
-  color: #F2EFC4;
-  background-color: #82AF6B;
-  border: 2px solid #F2EFC4;
-  
+#header {
+  border-radius: 10px;
+  background-color: #F7FFF7;
+  border: 4px solid #FFE66D;
+  margin: 10px auto 10px auto; 
 }
 
-footer {
-  margin: auto;
+#main {
+  border-radius: 10px;
+  background-color: #F7FFF7;
+  border: 4px solid #FFE66D;
+  margin: 10px auto 10px auto;
+  padding: 30px;
+}
+
+a {
+  color: #FF6B6B;
+}
+
+a:hover {
+  color: #E93950;
+}
+
+#footnote {
   font-style: italic;
-  color: #FE938C;
-  width: 100%;
-  padding: 20px;
-  text-align: center;
+  margin: 50px 0px -20px 0px;
 }
