@@ -1,5 +1,5 @@
 body {
-  background-color: #FCDEBE;
+  background-color: #FEF5EC;
 }
 
 div {
@@ -10,8 +10,8 @@ div {
 header {
   text-align: center;
   width: 9em;  
-  color: #FCDEBE;
-  background-color: #EDAF97;
+  color: #FEF5EC;
+  background-color: #FEC4BC;
   border: 5px solid #FE938C;
   margin: 1% auto auto auto;
   padding: 0px 10px 10px 10px;
@@ -21,9 +21,9 @@ header {
 }
 .quote {
   width: 18em;  
-  color: #82AF6B;
-  background-color: #D4D2A5;
-  border: 5px solid #82AF6B;
+  color: #3A554E;
+  background-color: #A4B7B1;
+  border: 5px solid #52796F;
   margin: 1% auto auto auto;
   padding: 20px 20px 10px 20px;
   border-radius: 10px;
@@ -38,11 +38,11 @@ header {
 .button {
   width: 2em;
   height: 2em;
-  color: #D4D2A5;
-  background-color: #82AF6B;
+  color: #FEF5EC;
+  background-color: #52796F;
   padding: .4em 0px 0px 0px;
   border-radius: 5px;
-  border: 2px solid #82AF6B;
+  border: 2px solid #52796F;
   font-family: 'Amatic SC', cursive;
   font-size: .8em;  
 }
